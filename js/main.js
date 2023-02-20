@@ -19,4 +19,6 @@ function criaElemento(nome, quantidade){
     novoItem.innerHTML += nome;
 
     lista.appendChild(novoItem);
+
+    console.log("ufa");
 }
